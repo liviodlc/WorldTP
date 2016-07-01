@@ -1,6 +1,8 @@
 name: WorldTP
 main: org.interguild.WorldTP
-version: 1.1
+version: 1.1.1
+softdepend:
+- Multiverse-Core
 commands:
   wtp:
     description: WorldTP - Conveniently teleport across Survival and Creative worlds without losing your place.
